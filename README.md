@@ -1,4 +1,4 @@
-# todo
+# weatherapp
 In this project you can add weather from city on the whole world. 
 
 It it use data from: https://home.openweathermap.org/
